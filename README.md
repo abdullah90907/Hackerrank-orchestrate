@@ -387,17 +387,6 @@ I reviewed all outputs, tested the code locally, challenged overly static logic,
 
 This project helped me understand how **retrieval**, **classification**, **safety routing**, and **grounded response generation** work together in a practical AI agent workflow. The most valuable insight was building an explicit escalation layer — not as a fallback, but as an intentional first-class part of the pipeline.
 
----
-
-## 🔗 Links
-
-| Resource | Link |
-|---|---|
-| 🐙 GitHub Repository | *add your link here* |
-| 🎬 Demo Video | *add your video link here* |
-| 🚀 Live Demo | *add your live demo link here* |
-
----
 
 <div align="center">
 
